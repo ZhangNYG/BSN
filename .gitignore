@@ -1,0 +1,11 @@
+*.mdb
+
+*.ldb
+
+*.sln
+
+*.config
+
+.idea/
+data/activitynet_feature_cuhk/csv_mean_100/
+output/
