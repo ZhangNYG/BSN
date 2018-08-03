@@ -19,6 +19,11 @@ This repo holds the codes of paper: "BSN: Boundary Sensitive Network for Tempora
 * [Training and Testing  of BSN](#training_and_testing_of_bsn)
 * [Other Info](#other-info)
 
+# Video Analysis
+
+<img src="./paper_pic/BSN.jpg" alt="image" align=center />
+
+
 # Paper Introduction
 
  <img src="./paper_pic/eccv_overview.jpg" width = "700" alt="image" align=center />
